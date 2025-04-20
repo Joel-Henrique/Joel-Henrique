@@ -20,7 +20,7 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
 <div style="display: inline_block"><br>
   <b>» Linguagens «</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,html,css,sql" />
   </a>
 </div>
 
@@ -28,6 +28,13 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
   <b>» Frameworks e Bibliotecas «</b><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs" />
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <b>» Ferramentas e Tecnologias «</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,mongodb" />
   </a>
 </div>
 
