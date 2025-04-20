@@ -1,7 +1,15 @@
 
 ## 👋 Bem-vindo ao meu GitHub!
 
-Me chamo **Joel Henrique** e sou **desenvolvedor full stack**, com foco maior no **front-end** e bastante interesse em tudo que envolve **LLMs (Large Language Models)** e **inteligência artificial**.
+---
+
+## 💡 Sobre mim
+* Me chamo **Joel Henrique** e sou estudante de **Sistemas de Informação** na **UFJF**.
+* Sou apaixonado por tecnologia, inovação e tudo que envolve **inteligência artificial** e **LLMs** (Large Language Models).
+* Tenho experiência como **desenvolvedor full stack**, com foco maior em **front-end**.
+* No tempo livre, gosto de fazer jogos, aprender coisas novas e desenvolver projetos pessoais.
+<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" />
+
 
 Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, minhas experiências práticas e meu crescimento como desenvolvedor.
 
@@ -25,14 +33,7 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
 
 ---
 
-## 💡 Sobre mim
-* Me chamo **Joel Henrique** e sou estudante de **Sistemas de Informação** na **UFJF**.
-* Sou apaixonado por tecnologia, inovação e tudo que envolve **inteligência artificial** e **LLMs** (Large Language Models).
-* Tenho experiência como **desenvolvedor full stack**, com foco maior em **front-end**.
-* No tempo livre, gosto de fazer jogos, aprender coisas novas e desenvolver projetos pessoais.
-<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" />
-
----
+## 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/Joel-Henrique">
@@ -42,10 +43,19 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
 
 ---
 
-<div align="center">
+## 🌐 Contato
+
+<div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/joel-henrique-a0952a25b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:joel.henrique.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
+
+
+
 
 ---
