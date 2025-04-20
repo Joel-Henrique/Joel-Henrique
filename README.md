@@ -2,7 +2,7 @@
 
 Me chamo **Joel Henrique** e sou **desenvolvedor full stack**, com foco maior no **front-end** e bastante interesse em tudo que envolve **LLMs (Large Language Models)** e **inteligência artificial**.
 
-Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, minhas experiências práticas e meu crescimento como desenvolvedor. Estou sempre em busca de novos desafios, contribuindo com soluções criativas e bem estruturadas.
+Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, minhas experiências práticas e meu crescimento como desenvolvedor.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
