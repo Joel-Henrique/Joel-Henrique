@@ -46,13 +46,8 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
 ## 🌐 Contato
 
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/joel-henrique-a0952a25b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:joel.henrique.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href = "mailto:joel.henrique.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/joel-henrique-a0952a25b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
 </div>
 
 
