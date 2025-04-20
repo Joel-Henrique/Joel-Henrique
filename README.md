@@ -35,6 +35,7 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
   <b>» Ferramentas e Tecnologias «</b><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,mongodb,postgres,cypress,notion,figma" />
+    <img src="assets/icons/sparkle.svg" width="40" style="margin-right: 10px;" />
   </a>
 </div>
 
