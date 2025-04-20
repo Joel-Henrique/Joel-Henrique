@@ -33,7 +33,7 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
 
 <div style="display: inline_block"><br>
   <b>» Ferramentas e Tecnologias «</b><br><br>
-	<img src="https://github.com/Joel-Henrique/Joel-Henrique/blob/main/assets/icons/spk.svg?raw=true" width="60" style="margin-left: 10px; vertical-align: middle;" title="Apache Spark" />
+	<img src="https://github.com/Joel-Henrique/Joel-Henrique/blob/main/assets/icons/spk.svg?raw=true" width="50" style="margin-left: 10px; vertical-align: middle;" title="Apache Spark" />
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,mongodb,postgres,cypress,notion,figma" />
