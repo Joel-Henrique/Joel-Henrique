@@ -47,7 +47,7 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div style="display: inline_block"><br>
   <a href="https://github.com/Joel-Henrique">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Henrique&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   </a>
