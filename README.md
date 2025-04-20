@@ -20,21 +20,21 @@ Aqui no meu GitHub, você vai encontrar projetos que refletem meu aprendizado, m
 <div style="display: inline_block"><br>
   <b>» Linguagens «</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,html,css,sql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,sql" />
   </a>
 </div>
 
 <div style="display: inline_block"><br>
   <b>» Frameworks e Bibliotecas «</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,nodejs" />
   </a>
 </div>
 
 <div style="display: inline_block"><br>
   <b>» Ferramentas e Tecnologias «</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,postgres,cypress,notion,figma" />
   </a>
 </div>
 
