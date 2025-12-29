@@ -40,16 +40,6 @@ Here on my GitHub, you'll find projects that reflect my learning journey, hands-
 
 ---
 
-## 📊 Stats
-
-<div style="display: inline_block"><br>
-  <a href="https://github.com/Joel-Henrique">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Henrique&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  </a>
-</div>
-
----
-
 ## 🌐 Contact
 
 <div style="display: inline_block"><br>
