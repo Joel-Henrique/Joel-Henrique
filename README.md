@@ -4,8 +4,6 @@
 
 ## 💡 About Me  
 * My name is **Joel Henrique** and I'm a **Information Systems** student at **UFJF**.  
-* I'm passionate about technology, innovation, and everything involving **artificial intelligence** and **LLMs** (Large Language Models).  
-* I have experience as a **full stack developer**, with a strong focus on **front-end technologies**. 
 * In my free time, I enjoy making games, learning new things, and building personal projects.  
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" />
 
