@@ -3,8 +3,10 @@
 ---
 
 ## 💡 About Me  
-* My name is **Joel Henrique** and I'm a **Information Systems** student at **UFJF**.  
-* In my free time, I enjoy making games, learning new things, and building personal projects.  
+* My name is **Joel Henrique** and I'm an **Information Systems** student at **UFJF**.  
+* I work with **speech recognition**, **audio transcription models**, and **Natural Language Processing (NLP/PLN)**.
+* My main interests include **Automatic Speech Recognition (ASR)** models such as **Whisper**, **Wav2Vec2**, and **Wav2Vec-BERT**, as well as phonetic transcription, forced alignment, and reading fluency assessment.
+* In my free time, I enjoy making games, learning new things, and building personal projects.
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" />
 
 Here on my GitHub, you'll find projects that reflect my learning journey, hands-on experiences, and growth as a developer.
